@@ -1,6 +1,13 @@
+/* 
+Disc: This program is used to find how mush was earned or lost on a stock for a given day 
+
+Date 10/27/2023
+Developed by: Walton Worthy 
+
+*/
 import java.util.Scanner;
 import java.text.*;
-public class Driver{
+public class Stock{
 	public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.println("\n\n");
